@@ -42,6 +42,8 @@ npm start
 
 3. Open `http://localhost:3000` in your browser to view the application.
 
+4. Or enter this command: python3 chatbot.py
+
 ## How to Contribute
 We welcome contributions from the community. Here are some ways you can contribute:
 1. Fork the repository.
