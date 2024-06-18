@@ -86,4 +86,5 @@ philosophyfactss@gmail.com
 
 ### Socials:
 Twitter: @Heleknax190662
+
 Discord: kresna6773
