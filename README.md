@@ -75,9 +75,13 @@ We welcome contributions from the community. Here are some ways you can contribu
 
 Fork the repository.
 Create a new branch for your feature (git checkout -b feature/YourFeature).
+
 Add your changes (git add .).
+
 Commit your changes (git commit -m 'Add YourFeature').
+
 Push to the branch (git push origin feature/YourFeature).
+
 Create a new Pull Request.
 
 ### Contact
