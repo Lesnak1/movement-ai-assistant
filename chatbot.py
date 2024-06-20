@@ -22,7 +22,7 @@ def get_response(user_input):
     return response
 
 def main():
-    print("Welcome to the Movement Chatbot!")
+    print("Welcome to the Movement Ai Asistant!")
     while True:
         user_input = input("Question: ")
         if user_input.lower() in ['exit', 'quit']:
