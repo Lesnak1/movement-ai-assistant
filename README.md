@@ -92,3 +92,5 @@ philosophyfactss@gmail.com
 Twitter: @Heleknax190662
 
 Discord: kresna6773
+
+Telegram: @lesnacrex
