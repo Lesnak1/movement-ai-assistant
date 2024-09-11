@@ -85,7 +85,7 @@ Push to the branch (git push origin feature/YourFeature).
 Create a new Pull Request.
 
 ### Contact
-For any questions or contributions, please contact:
+For any questions or contributions, please contact me from here:
 philosophyfactss@gmail.com
 
 ### Socials:
@@ -93,4 +93,4 @@ Twitter: @Heleknax190662
 
 Discord: kresna6773
 
-Telegram: @lesnacrex
+Telegram: @lesnacrex  
